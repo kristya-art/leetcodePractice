@@ -9,7 +9,7 @@ package ja;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-public class AddTwoSumLong {
+public class AddTwoNumbersLong {
 
     public static class ListNode{
         int val;

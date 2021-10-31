@@ -12,7 +12,7 @@ import java.math.BigInteger;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-public class AddTwoSumBigInteger {
+public class AddTwoNumbersBigInteger {
 
     public static class ListNode{
         int val;
