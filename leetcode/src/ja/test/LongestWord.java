@@ -1,6 +1,5 @@
 package ja.test;
-import java.util.*;
-import java.io.*;
+
 import java.util.regex.Pattern;
 public class LongestWord {
 
