@@ -48,6 +48,6 @@ public class ContainerWithMostWater3 {
         long startTime = System.nanoTime();
         System.out.println(result);
         long endTime = System.nanoTime();
-        System.out.println(endTime-startTime); // 166600
+        System.out.println(endTime-startTime); // 195100-300000
     }
 }
